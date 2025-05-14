@@ -1,8 +1,8 @@
-# Comic Downloader (Network Programming Project)
+# Comic Downloader
 
 ## Description
 
-This is a network programming project developed in Python to automate the download of comic strips from the [GoComics](https://www.gocomics.com) website. The program allows users to select from a list of cat-themed comics and input a specific date to download the comic image for that day.
+This is a network programming project written  in Python to automate the download of comic images from the [GoComics](https://www.gocomics.com) website. The program allows users to select from a list of cat-themed comics and input a specific date to download the comic image for that specific day.
 
 The downloader uses:
 - **Selenium** to handle JavaScript-rendered content.

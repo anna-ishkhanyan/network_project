@@ -21,7 +21,7 @@ The downloader uses:
 
 You can use the provided `Makefile`:
 
-```bash```
+```make```
 ## Acknowledgment
 Some code parts related to web scraping with BeautifulSoup and Selenium were taken from open-source sources to understand best practices for parsing HTML.
 
